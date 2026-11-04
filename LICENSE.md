@@ -1,6 +1,6 @@
 # Auto-Modpacker Source-Available Noncommercial License (SANL), Version 2.0
 
-Copyright (c) 2026 A simple Block. All rights reserved, except the rights expressly granted below.
+Copyright (c) 2026 A Simple Block. All rights reserved, except the rights expressly granted below.
 
 **This is not an open-source license.** The source code is public so that people can read it, learn from it, and use and modify it for non-commercial purposes. Commercial use is reserved to the Licensor, and the Licensor decides who may use the Software. This License is a public offer (an open license) to everyone who is not an Excluded Party. The following acts are acceptance of it and form a binding agreement between You and the Licensor: using, copying, modifying, or distributing the Software, or doing anything else with it that needs the Licensor's permission under copyright law. If You do not accept these terms, or if You are an Excluded Party, You have no permission to do any of those things, and doing them infringes the Licensor's copyright.
 
