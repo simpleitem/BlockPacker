@@ -10,7 +10,7 @@ The Source-Available Noncommercial License is abbreviated **"SANL"**. In this te
 
 **"Software"** means Auto-Modpacker in each version that the Licensor has published under this License, including every release and every commit in the Repository that carries this License, a notice from the Appendix, or a README statement that it is under this License, together with all of its source code, binaries, scripts, assets, data, and documentation, and any part of it. Versions the Licensor has released under a different license stay under that license.
 
-**"Licensor"** means A simple Block, the copyright holder, and any successor or assignee of the Licensor's rights. **"Repository"** means the Licensor's official repository at https://github.com/SimpleBlockDev/Auto-Modpacker/ and any location that replaces it.
+**"Licensor"** means A simple Block, the copyright holder, and any successor or assignee of the Licensor's rights. **"Repository"** means the Licensor's official repository at https://github.com/simpleblockdev/Auto-Modpacker/ and any location that replaces it.
 
 **"You"** means the individual or entity exercising rights under this License, together with its Affiliates. **"Affiliate"** means any person or entity that directly or indirectly controls, is controlled by, or is under common control with another person or entity; "control" means owning more than 25% of the voting or economic interests of an entity, or being able to direct its management or policies.
 
@@ -52,7 +52,7 @@ Every term of Sections 3, 4, and 5 is an express condition and a limit on the sc
 
 ## 4. Attribution
 
-**4.1** Whenever You distribute the Software or a Derivative Work, or make either available to users (for example as part of a game, server, mod, app, website, or service), You must credit the original work with this text, or with the text the Repository's README specifies for that purpose: "Based on Auto-Modpacker by A simple Block (https://github.com/SimpleBlockDev/Auto-Modpacker/)".
+**4.1** Whenever You distribute the Software or a Derivative Work, or make either available to users (for example as part of a game, server, mod, app, website, or service), You must credit the original work with this text, or with the text the Repository's README specifies for that purpose: "Based on Auto-Modpacker by A simple Block (https://github.com/simpleblockdev/Auto-Modpacker/)".
 
 **4.2** The credit must appear (a) in the README, project page, and download page of the Derivative Work or other work that uses the Software; (b) somewhere users can easily find it in the product itself, such as an About, Credits, or Info screen, a startup or loading message, a server description, or a mod or package description; and (c) in its documentation. If a product has no user interface, (a) and (c) suffice. You must also keep all copyright, license, and attribution notices in the source files, and must not remove, hide, obscure, or make them hard to find.
 
@@ -102,7 +102,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 
 **10.6 Language.** The English text of this License prevails over any translation.
 
-**10.7 Integrity and name of this text.** This License is published in its official form in the repository https://github.com/SimpleBlockDev/Source-Available-Noncommercial-License (the "Official Repository") by A Simple Block, GitHub account SimpleBlockDev (the "Text Author"). The following rules bind everyone who copies, uses, or publishes this text, including the Licensor of each project that uses it.
+**10.7 Integrity and name of this text.** This License is published in its official form in the repository https://github.com/simpleblockdev/Source-Available-Noncommercial-License (the "Official Repository") by A Simple Block, GitHub account simpleblockdev (the "Text Author"). The following rules bind everyone who copies, uses, or publishes this text, including the Licensor of each project that uses it.
 
 - (a) **No changes to the text.** The text of this License must not be changed. These are not changes: filling in the placeholders in square brackets (the project name, author, year, repository address, and contact); entries in EXCLUDED.md and LICENSED.md; placing the notice from the Appendix in the comment syntax of a language; and an unofficial translation that states at its top that it is an unofficial translation of SANL, Version 2.0, and that the English text prevails. Deleting, adding, shortening, rewording, or reordering any clause, or combining the text with another license text, is a change. Additional permissions for users are given in the ways stated in Section 10.4, not by changing the text.
 - (b) **A changed text is not SANL.** A text that has been changed is not this License and gives no rights under it. It must not be called "Source-Available Noncommercial License", "SANL", or any name, abbreviation, or license identifier that is the same as or confusingly similar to them (including the identifier in the Appendix), and it must not say or suggest that it is this License, that it is based on it in a way that makes it equivalent to it, or that it is approved or published by the Text Author. A changed text must carry its own different name. It may state, in one factual sentence, that it was derived from SANL, Version 2.0, and was changed, and must not use that sentence in a way that makes it appear to be SANL.
@@ -117,6 +117,6 @@ Put this header, in the comment syntax of the language, at the top of each sourc
 Copyright (c) 2026 A simple Block. Part of Auto-Modpacker.
 Source-available, noncommercial use only (SANL 2.0). No commercial use and no use by
 Excluded Parties without the author's written permission. Credit required.
-See LICENSE.md, EXCLUDED.md, and LICENSED.md in https://github.com/SimpleBlockDev/Auto-Modpacker/.
+See LICENSE.md, EXCLUDED.md, and LICENSED.md in https://github.com/simpleblockdev/Auto-Modpacker/.
 SPDX-License-Identifier: LicenseRef-SANL-2.0
 ```
