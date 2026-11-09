@@ -38,7 +38,7 @@ A *slug* is the end of a mod's link, for example `sodium` in `https://modrinth.c
 ## What's coming in the next update
 Work with existing folders without installing a script in them
 
-Auto-translation of assemblies *experimental*
+Auto-translation of modpacks **experimental**
 
 ## Rules of use
 
