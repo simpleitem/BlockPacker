@@ -34,6 +34,11 @@ A *slug* is the end of a mod's link, for example `sodium` in `https://modrinth.c
 - Auto-Finder commands: `search`, `show`, `save`, `saveall`, `addons`, `newaddons`, `importlink`, `modupdate`. Any of them can also be called as `finder <command>`.
 - `help` shows all commands, `exit` quits.
 
+
+## What's coming in the next update
+Work with existing folders without installing a script in them
+Auto-translation of assemblies *experimental*
+
 ## Rules of use
 
 The code is public to read, learn from, and use, but this is **not open source**. By using, copying, or modifying it you accept [LICENSE.md](LICENSE.md). In short:
