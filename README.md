@@ -45,7 +45,7 @@ Auto-translation of modpacks **experimental**
 The code is public to read, learn from, and use, but this is **not open source**. By using, copying, or modifying it you accept [LICENSE.md](LICENSE.md). In short:
 
 - **Non-commercial use only.** No selling, paid access, microtransactions, paid ranks, ads, or training paid AI products. Personal, study, and non-profit use is fine, and so are videos and reviews.
-- **Credit is required** in your README, in your product, and in its documentation: *Based on Auto-Modpacker by A Simple Block (https://github.com/SimpleBlockDev/Auto-Modpacker)*.
+- **Credit is required** in your README, in your product, and in its documentation: *Based on Auto-Modpacker by A Simple Block (https://github.com/simpleblockdev/Auto-Modpacker)*.
 - **Excluded parties** listed in [EXCLUDED.md](EXCLUDED.md) get no license. Parties in [LICENSED.md](LICENSED.md) have permission in advance.
 - **Donation links are allowed** if voluntary and with no perks. Demanding a donation ends your license.
 - Modified copies must stay under this license and be marked as changed.
