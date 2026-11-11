@@ -121,8 +121,6 @@ T = {
         "no_disabled": "Отключённых или неопознанных файлов не найдено.",
         "log_saved": "лог сохранён",
         "banner_title": "  Auto-Modpacker by A Simple Block",
-        "banner_discord1": 'Discord (simple_block): для разработчиков и моих проектов,',
-        "banner_discord2": 'помогаю и консультирую всех, от разработчиков для разработчиков:',
         "banner_verify": 'Не хочешь верить на слово, проверь скрипт сам:',
         "banner_vt": 'VirusTotal (загрузи файл на скан):  https://www.virustotal.com/gui/home/upload',
         "banner_gemini": 'Gemini (спроси, что делает код):    https://gemini.google.com/app',
@@ -383,8 +381,6 @@ T = {
         "no_disabled": "No disabled or unrecognized files found.",
         "log_saved": "log saved",
         "banner_title": "  Auto-Modpacker by A Simple Block",
-        "banner_discord1": 'Discord (simple_block): for developers and my projects,',
-        "banner_discord2": 'I help and advise everyone—from developers, for developers:',
         "banner_verify": "Don't take my word for it; check the script yourself:",
         "banner_vt": 'VirusTotal (upload the file to scan):  https://www.virustotal.com/gui/home/upload',
         "banner_gemini": 'Gemini (ask what the code does):    https://gemini.google.com/app',
@@ -6659,8 +6655,6 @@ def print_banner():
     say("\n" * 40)
     say(f"{GREEN}{BOLD}#==============================================#{RESET}")
     say(f"{GREEN}{BOLD}{tr['banner_title']}{RESET}")
-    say(f"{GREEN}{tr['banner_discord1']}{RESET}")
-    say(f"{GREEN}{tr['banner_discord2']}{RESET}")
     say("  https://discord.com/invite/9KmaCbz9HQ")
     say()
     say(f"{BOLD}{tr['banner_verify']}{RESET}")
